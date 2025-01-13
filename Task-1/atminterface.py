@@ -1,5 +1,10 @@
 import tkinter as tk
 from tkinter import messagebox
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 7ec3dcf082b61e8a96559e5161dc4c323bdf3da2
 class ATM:
     def __init__(self):
         self.accounts = {
